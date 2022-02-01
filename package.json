@@ -1,0 +1,38 @@
+{
+  "name": "PrecisoDe",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoSiqueira/PrecisoDe.git"
+  },
+  "keywords": [],
+  "author": "Renato Siqueira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RenatoSiqueira/PrecisoDe/issues"
+  },
+  "homepage": "https://github.com/RenatoSiqueira/PrecisoDe#readme",
+  "dependencies": {
+    "autoprefixer": "^10.0.1",
+    "formik": "^2.2.6",
+    "google-spreadsheet": "^3.0.13",
+    "hamburger-react": "^2.3.0",
+    "luxon": "2.0.2",
+    "next": "10.0.1",
+    "next-ga": "^2.3.4",
+    "postcss-import": "^13.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-text-loop": "^2.3.0",
+    "swr": "^0.3.8",
+    "tailwindcss": "^1.9.6",
+    "yup": "^0.32.8"
+  }
+}
